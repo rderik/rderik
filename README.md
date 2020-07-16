@@ -7,3 +7,4 @@ Hello, I'm Derik - a *nix command-line tools developer, primarily macOS. I also 
 - 🕸 Website - [rderik.com](https://rderik.com)
 - 🐦 Twitter - [@rderik](https://twitter.com/rderik)
 - ✉️ Mail - [derik@rderik.com](mailto:derik@rderik.com)
+- 🐙 GitHub Gists - [Gists](https://gist.github.com/rderik)
