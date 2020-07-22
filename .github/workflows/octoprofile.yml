@@ -1,28 +1,23 @@
-name: Update README
+name: "Update README"
 
 on:
   push: {branches: master}
-  schedule:
-    - cron: "0 4 * * *"
   workflow_dispatch:
-
+    #schedule:
+    #- cron: "0 4 * * *"
 jobs:
   octoprofile:
     runs-on: macos-latest
-
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@main
 
-      - uses: rderik/octoprofile-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "template.md"
-          output: "README.md"
+      - name: "Generate README.md with octoprofile"
+        run: ./octoprofile template.md -o README.md
+        shell: bash
 
       - uses: stefanzweifel/git-auto-commit-action@v2
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           commit_message: Update octoprofile-generated README
           branch: master
