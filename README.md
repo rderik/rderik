@@ -16,4 +16,4 @@ The following is the list of the latest articles on my blog:
 - [Extracting entitlements from process memory using LLDB](https://rderik.com/blog/extracting-entitlements-from-process-memory-using-lldb/)
 
 
-Don't forget to follow me on twitter at [@rderik](https://twitter.com/rderik)
+Don't forget to follow me on twitter at [@rderik](https://twitter.com/rderik).
