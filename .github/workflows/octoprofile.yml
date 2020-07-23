@@ -19,8 +19,10 @@ jobs:
         run: |
           git config --global user.name "rderik"
           git config --global user.email "rderik@gmail.com"
-          git add README.md
-          git commit -m "Update octoprofile-generated README"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          if [[ -z $(git status -s) ]]; then
+            echo "No changes"
+          else
+            git add README.md
+            git commit -m "Update octoprofile-generated README"
+            git push
+          fi
