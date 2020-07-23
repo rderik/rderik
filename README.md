@@ -17,4 +17,3 @@ The following is the list of the latest articles on my blog:
 
 
 Don't forget to follow me on twitter at [@rderik](https://twitter.com/rderik)
-
