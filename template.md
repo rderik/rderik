@@ -13,4 +13,4 @@ The following is the list of the latest articles on my blog:
 
 {{octo-plugin:RSS:http://rderik.com/feed.xml:numPosts:3}}
 
-Don't forget to follow me on twitter at {{octo-plugin:Twitter:rderik}}
+Don't forget to follow me on twitter at {{octo-plugin:Twitter:rderik}}.
