@@ -11,7 +11,7 @@ Hello, I'm Derik - a *nix command-line tools developer, primarily macOS. I also 
 
 The following is the list of the latest articles on my blog:
 
-{{octo-plugin:RSS:http://rderik.com/feed.xml:numPosts:3}}
+{{octo-plugin:RSS:http://rderik.com/feed.xml:numPosts:10}}
 
 Don't forget to follow me on twitter at {{octo-plugin:Twitter:rderik}}.
 
