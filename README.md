@@ -9,6 +9,14 @@ Hello, I'm Derik - a *nix command-line tools developer, primarily macOS. I also 
 - ✉️ Mail - [derik@rderik.com](mailto:derik@rderik.com)
 - 🐙 GitHub Gists - [Gists](https://gist.github.com/rderik)
 
+If you are interested in macOS development and network applications, you might find my following guide useful:
+
+[macOS network programming in Swift](https://rderik.com/guides)
+
+I also created a guide for FreeBSD jails if you are interested here is the link:
+
+[FreeBSD Jails using VNETs](https://rderik.com/guides)
+
 The following is the list of the latest articles on my blog:
 
 - [Understanding SwiftNIO by building a text modifying server](https://rderik.com/blog/understanding-swiftnio-by-building-a-text-modifying-server/)
