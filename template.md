@@ -14,6 +14,10 @@ The following is the list of the latest articles on my blog:
 
 {{octo-plugin:RSS:https://rderik.com/feed.xml:numPosts:10}}
 
+The following is my talk for [Back to the Mac](https://backtomac.org) conference:
+
+[Understanding macOS application bundles by building an agent-based app](https://youtu.be/OO-aanwkh0k)
+
 Don't forget to follow me on twitter at {{octo-plugin:Twitter:rderik}}.
 
 ### Get in touch
