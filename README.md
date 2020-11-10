@@ -20,6 +20,10 @@ The following is the list of the latest articles on my blog:
 - [Scanning a process' memory using LLDB](https://rderik.com/blog/scanning-a-process-memory-using-lldb/)
 
 
+The following is my talk for [Back to the Mac](https://backtomac.org) conference:
+
+[Understanding macOS application bundles by building an agent-based app](https://youtu.be/OO-aanwkh0k)
+
 Don't forget to follow me on twitter at [@rderik](https://twitter.com/rderik).
 
 ### Get in touch
