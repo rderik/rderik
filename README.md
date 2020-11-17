@@ -12,12 +12,12 @@ I also created a guide for FreeBSD jails if you are interested here is the link:
 
 The following is the list of the latest articles on my blog:
 
+- [Set up a macOS Parallels Virtual Machine for security research](https://rderik.com/blog/set-up-a-macos-parallels-virtual-machine-for-security-research/)
 - [Understanding SwiftNIO by building a text modifying server](https://rderik.com/blog/understanding-swiftnio-by-building-a-text-modifying-server/)
 - [Building a text-based application using Swift and ncurses](https://rderik.com/blog/building-a-text-based-application-using-swift-and-ncurses/)
 - [How to read passwords and sensitive data from the command-line using Swift](https://rderik.com/blog/how-to-read-passwords-and-sensitive-data-from-the-command-line-using-swift/)
 - [Understanding the Swift Argument Parser and working with STDIN](https://rderik.com/blog/understanding-the-swift-argument-parser-and-working-with-stdin/)
 - [Extracting entitlements from process memory using LLDB](https://rderik.com/blog/extracting-entitlements-from-process-memory-using-lldb/)
-- [Scanning a process' memory using LLDB](https://rderik.com/blog/scanning-a-process-memory-using-lldb/)
 
 
 The following is my talk for [Back to the Mac](https://backtomac.org) conference:
