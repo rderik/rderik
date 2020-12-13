@@ -12,12 +12,12 @@ I also created a guide for FreeBSD jails if you are interested here is the link:
 
 The following is the list of the latest articles on my blog:
 
+- [A simple setup for a Build and Deploy system using GitHub Actions](https://rderik.com/blog/a-simple-setup-for-a-build-and-deploy-system-using-github-actions/)
 - [Set up a macOS Parallels Virtual Machine for security research](https://rderik.com/blog/set-up-a-macos-parallels-virtual-machine-for-security-research/)
 - [Adding dark mode to a UIKit App](https://rderik.com/blog/adding-dark-mode-to-a-uikit-app/)
 - [Understanding SwiftNIO by building a text modifying server](https://rderik.com/blog/understanding-swiftnio-by-building-a-text-modifying-server/)
 - [Building a text-based application using Swift and ncurses](https://rderik.com/blog/building-a-text-based-application-using-swift-and-ncurses/)
 - [Generate table of contents with anchors for markdown file - Vim plugin](https://rderik.com/blog/generate-table-of-contents-with-anchors-for-markdown-file-vim-plugin/)
-- [How to read passwords and sensitive data from the command-line using Swift](https://rderik.com/blog/how-to-read-passwords-and-sensitive-data-from-the-command-line-using-swift/)
 
 
 The following is my talk for [Back to the Mac](https://backtomac.org) conference:
