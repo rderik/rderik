@@ -1,6 +1,6 @@
 ### Derik Ramirez - [rderik.com](https://rderik.com) 👋
 
-Hello, I'm Derik - a CS Engineer that enjoys working on network applications and building *nix command-line tools, primarily macOS. I also work as a backend engineer. You can check my articles at [rderik.com](https://rderik.com).
+Hello, I'm Derik - a CS Engineer that enjoys working on network applications, building *nix command-line tools, and reading Sci-fi and Fantasy. I also work as a DevOps engineer. You can check my articles at [rderik.com](https://rderik.com).
 
 If you are interested in macOS development and network applications, you can download my guide at:
 
