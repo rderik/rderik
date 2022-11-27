@@ -12,12 +12,12 @@ I also created a guide for FreeBSD jails if you are interested here is the link:
 
 The following is the list of the latest articles on my blog:
 
+- [Setting up access to a private repository in ArgoCD with SSM Parameter Store and External Secrets Operator](https://rderik.com/blog/setting-up-access-to-a-private-repository-in-argocd-with-ssm-parameter-store-and-external-secrets-operator/)
 - [Using IAM Roles for Kubernetes service accounts in AWS EKS using Terraform](https://rderik.com/blog/using-iam-roles-for-kubernetes-service-accounts-in-aws-eks-using-terraform/)
 - [Setting up an EKS Kubernetes cluster for learning](https://rderik.com/blog/setting-up-a-eks-kubernetes-cluster-for-learning/)
 - [Setting up a Kubernetes Cluster in Amazon EKS using Terraform](https://rderik.com/blog/setting-up-a-kubernetes-cluster-in-amazon-eks-using-terraform/)
 - [A better way of setting up and managing user ssh keys in AWS EC2 instances](https://rderik.com/blog/a-better-way-of-setting-up-and-managing-user-ssh-keys-in-aws-ec2-instances/)
 - [How to set up a new Terraform project using S3 backend and DynamoDB locking](https://rderik.com/blog/how-to-set-up-a-new-terraform-project-using-s3-backend-and-dynamodb-locking/)
-- [My thoughts on understanding dependencies, and adding a copy button to code blocks on my site](https://rderik.com/blog/my-thoughts-on-understanding-dependencies-and-adding-a-copy-button-to-code-blocks-on-my-site/)
 
 
 The following is my talk for [Back to the Mac](https://backtomac.org) conference:
