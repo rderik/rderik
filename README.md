@@ -2,13 +2,12 @@
 
 Hello, I'm Derik - a CS Engineer that enjoys working on network applications, building *nix command-line tools, and reading Sci-fi and Fantasy. I also work as a DevOps engineer. You can check my articles at [rderik.com](https://rderik.com).
 
-If you are interested in macOS development and network applications, you can download my guide at:
+I've written a few guides that you might find useful:
 
-[macOS network programming in Swift](https://rderik.com/guides)
+- [macOS network programming in Swift](https://rderik.com/guides/macos_network_programming/)
+- [FreeBSD Jails using VNETs](https://rderik.com/guides/jails_vnet/)
+- [Meditations on Directory Structure for Terraform Projects](https://rderik.com/guides/meditations_directory_structure_tf_projects)
 
-I also created a guide for FreeBSD jails if you are interested here is the link:
-
-[FreeBSD Jails using VNETs](https://rderik.com/guides)
 
 The following is the list of the latest articles on my blog:
 
